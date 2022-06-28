@@ -1,0 +1,800 @@
+Account,Date,Expense,Class,SubClass
+1,1/3/2020, $20.00 ,Discretionary,Misc.
+1,1/3/2020, $33.94 ,Discretionary,Misc.
+1,1/3/2020, $10.00 ,Discretionary,Misc.
+1,1/3/2020, $58.29 ,Variable,Gas
+1,1/3/2020, $500.00 ,Transfer,Transfer
+1,1/3/2020, $67.00 ,Discretionary,Misc.
+1,1/3/2020, $100.00 ,Fixed,Utilities
+1,1/3/2020, $9.00 ,Discretionary,Misc.
+1,1/3/2020, $52.33 ,Variable,Groceries
+1,1/4/2020, $10.21 ,Variable,Groceries
+1,1/7/2020, $7.06 ,Discretionary,Fast Food
+1,1/10/2020, $10.78 ,Discretionary,Fast Food
+1,1/10/2020, $42.89 ,Discretionary,Fast Food
+1,1/11/2020, $43.39 ,Discretionary,Fast Food
+1,1/10/2020, $60.11 ,Variable,Groceries
+1,1/10/2020, $24.00 ,Discretionary,Misc.
+1,1/10/2020, $9.99 ,Discretionary,Misc.
+1,1/11/2020, $37.34 ,Variable,Gas
+1,1/13/2020, $6.47 ,Discretionary,Fast Food
+1,1/13/2020, $15.00 ,Discretionary,Misc.
+1,1/18/2020, $5.58 ,Discretionary,Fast Food
+1,1/18/2020, $16.42 ,Discretionary,Fast Food
+1,1/18/2020, $6.00 ,Discretionary,Misc.
+1,1/18/2020, $2.84 ,Variable,Groceries
+1,1/18/2020, $18.00 ,Discretionary,Fast Food
+1,1/18/2020, $45.91 ,Variable,Groceries
+1,1/18/2020, $500.00 ,Transfer,Transfer
+1,1/18/2020, $300.00 ,Transfer,Transfer
+1,1/18/2020, $48.70 ,Discretionary,Fast Food
+1,1/18/2020, $9.99 ,Discretionary,Misc.
+1,1/19/2020, $52.02 ,Variable,Gas
+1,1/19/2020, $158.09 ,Discretionary,Misc.
+1,1/20/2020, $17.24 ,Discretionary,Fast Food
+1,1/24/2020, $46.99 ,Discretionary,Gym
+1,1/26/2020, $36.47 ,Variable,Groceries
+1,1/31/2020, $12.08 ,Discretionary,Fast Food
+1,1/31/2020, $40.00 ,Discretionary,Misc.
+1,1/31/2020, $11.85 ,Fixed,Utilities
+1,1/31/2020, $17.31 ,Discretionary,Fast Food
+1,1/31/2020, $19.34 ,Discretionary,Fast Food
+1,1/31/2020, $22.88 ,Variable,Groceries
+1,1/31/2020, $100.00 ,Fixed,Utilities
+1,1/31/2020, $15.00 ,Discretionary,Misc.
+2,1/5/2020, $490.00 ,Fixed,Bootcamp Payment
+2,1/10/2020, $(77.34),Transfer,Transfer
+2,1/19/2020, $(500.00),Transfer,Transfer
+2,1/20/2020, $30.00 ,Discretionary,Misc.
+2,1/23/2020, $35.32 ,Variable,Groceries
+2,1/23/2020, $28.75 ,Discretionary,Fast Food
+2,1/23/2020, $11.50 ,Discretionary,Fast Food
+2,1/23/2020, $9.85 ,Discretionary,Fast Food
+2,1/23/2020, $15.26 ,Discretionary,Fast Food
+2,1/24/2020, $15.00 ,Discretionary,Misc.
+2,1/24/2020, $4.74 ,Discretionary,Fast Food
+2,1/24/2020, $9.15 ,Discretionary,Fast Food
+2,1/24/2020, $9.99 ,Discretionary,Misc.
+2,1/26/2020, $(490.00),Transfer,Transfer
+2,1/28/2020, $7.00 ,Fixed,Utilities
+2,1/28/2020, $129.99 ,Discretionary,Misc.
+2,1/28/2020, $32.00 ,Discretionary,Misc.
+2,1/30/2020, $254.88 ,Discretionary,Misc.
+2,1/31/2020, $(280.00),Transfer,Transfer
+1,2/1/2020, $12.92 ,Variable,MIsc.
+1,2/1/2020, $40.51 ,Variable,Groceries
+1,2/1/2020, $31.54 ,Variable,Gas
+1,2/1/2020, $16.00 ,Discretionary,Fast Food
+1,2/2/2020, $3.60 ,Discretionary,Fast Food
+1,2/2/2020," $1,550.00 ",Fixed ,Rent
+1,2/2/2020, $2.95 ,Fixed ,Rent
+1,2/2/2020, $13.26 ,Variable ,Groceries
+1,2/4/2020, $36.00 ,Discretionary,Misc.
+1,2/8/2020, $5.76 ,Discretionary,Fast Food
+1,2/8/2020, $36.10 ,Discretionary,Misc.
+1,2/16/2020, $5.76 ,Discretionary,Fast Food
+1,2/16/2020, $16.13 ,Discretionary,Fast Food
+1,2/16/2020, $19.80 ,Discretionary,Fast Food
+1,2/10/2020, $60.77 ,Fixed ,AT&T Internet
+1,2/8/2020, $(15.00),Venmo,Venmo
+1,2/16/2020, $12.92 ,Discretionary,Fast Food
+1,2/16/2020, $300.00 ,Variable,Car
+1,2/16/2020, $15.06 ,Discretionary,Fast Food
+1,2/16/2020, $4.30 ,Discretionary ,Misc.
+1,2/16/2020, $37.02 ,Variable,Gas
+1,2/16/2020, $26.88 ,Variable ,Groceries
+1,2/16/2020, $7.99 ,Discretionary,Misc.
+1,2/16/2020, $12.48 ,Discretionary,Fast Food
+1,2/16/2020, $134.39 ,Transfer,Transfer
+1,2/16/2020, $100.00 ,Fixed ,Insurance & Phone
+1,2/16/2020, $80.53 ,Transfer,Transfer
+1,2/16/2020, $80.53 ,Transfer,Transfer
+1,12/16/2020, $80.53 ,Transfer,Transfer
+1,2/16/2020, $(31.71),Venmo,Venmo
+1,2/16/2020, $21.01 ,Discretionary,Fast Food
+1,2/16/2020, $55.00 ,Discretionary,Misc.
+1,2/16/2020, $14.99 ,Discretionary,Misc.
+1,2/16/2020, $12.00 ,Discretionary,Misc.
+1,2/16/2020, $9.99 ,Discretionary,Misc.
+1,2/18/2020, $10.38 ,Discretionary,Fast Food
+1,2/22/2020, $5.76 ,Discretionary ,Fast Food
+1,2/22/2020, $36.08 ,Discretionary,Misc.
+1,2/22/2020, $17.21 ,Discretionary,Fast Food
+1,2/22/2020, $37.51 ,Variable,Gas
+1,2/22/2020, $42.42 ,Discretionary,Fast Food
+1,2/22/2020, $1.85 ,Variable,Groceries
+1,2/23/2020, $(115.00),Tax Refund,Tax Refund
+1,2/24/2020, $4.99 ,Variable,Groceries
+1,2/25/2020, $(500.00),Venmo,Venmo
+1,2/25/2020, $10.23 ,Discretionary,Fast Food
+1,2/26/2020, $(325.00),Venmo,Venmo
+2,2/1/2020, $134.39 ,Discretionary,Misc.
+2,2/6/2020, $(100.00),Transfer,Transfer
+2,2/7/2020, $3.04 ,Discretionary,Misc.
+2,2/7/2020, $14.01 ,Discretionary,MIsc.
+2,2/7/2020, $28.00 ,Discretionary,MIsc.
+2,2/7/2020, $5.25 ,Discretionary,Misc.
+2,2/7/2020, $47.32 ,Variable,Gas
+2,2/8/2020, $26.56 ,Variable,Groceries
+2,2/8/2020, $5.00 ,Discretionary,Misc.
+2,2/8/2020, $23.42 ,Discretionary,Misc.
+2,2/8/2020, $11.84 ,Discretionary,Fast Food
+2,2/11/2020, $(9.76),Transfer,Transfer
+2,2/11/2020, $5.00 ,Discretionary,Misc.
+2,2/11/2020, $4.76 ,Discretionary,Fast Food
+2,2/12/2020, $(50.00),Transfer,Transfer
+2,2/8/2020, $(13.61),Transfer,Transfer
+2,2/17/2020, $(134.39),Transfer,Transfer
+2,2/18/2020, $12.99 ,Discretionary,Misc.
+2,2/22/2020, $32.81 ,Variable,Groceries
+1,3/1/2022, $852.50 ,Fixed,Rent
+1,3/1/2022, $17.54 ,Discretionary,Fast Food
+1,3/1/2022, $2.00 ,Discretionary,Misc.
+1,3/7/2022, $250.00 ,Transfer,Transfer
+1,3/7/2022, $40.00 ,Discretionary,Misc.
+1,3/7/2022, $24.00 ,Discretionary,Misc.
+1,3/8/2022, $46.67 ,Variable,Car
+1,3/10/2022, $17.86 ,Discretionary,Misc.
+1,3/11/2022, $6.25 ,Discretionary,Fast Food
+1,3/11/2022, $4.00 ,Discretionary,Fast Food
+1,3/14/2022, $34.50 ,Discretionary,Misc.
+1,3/14/2022, $17.19 ,Discretionary,Fast Food
+1,3/14/2022, $11.16 ,Discretionary,Fast Food
+1,3/14/2022, $4.00 ,Discretionary,Fast Food
+1,3/15/2022, $39.04 ,Discretionary,Fast Food
+1,3/14/2022, $36.82 ,Variable,Groceries
+1,3/8/2022, $24.20 ,Variable,Groceries
+1,3/15/2022, $99.47 ,Variable,Groceries
+1,3/16/2022, $13.98 ,Discretionary,Misc.
+1,3/16/2022, $9.99 ,Discretionary,Misc.
+1,3/17/2022, $127.81 ,Discretionary,Misc.
+1,3/17/2022, $60.85 ,Variable,Gas
+1,3/18/2022, $177.96 ,Discretionary,Misc.
+1,3/21/2022, $6.47 ,Discretionary,Fast Food
+1,3/21/2022, $43.10 ,Discretionary,Fast Food
+1,3/21/2022, $30.26 ,Variable,Car
+1,3/21/2022, $22.57 ,Discretionary,Fast Food
+1,3/21/2022, $500.00 ,Transfer,Transfer
+1,3/21/2022, $150.00 ,Transfer,Transfer
+1,3/21/2022, $25.36 ,Discretionary,Fast Food
+1,3/21/2022, $43.40 ,Variable,Groceries
+1,3/23/2022, $71.85 ,Variable,Gas
+1,3/23/2022, $34.01 ,Variable,Groceries
+1,3/23/2022, $4.03 ,Discretionary,Fast Food
+1,3/23/2022, $48.85 ,Discretionary,Misc.
+1,3/23/2022, $19.39 ,Fixed,Utilities
+1,3/23/2022, $35.86 ,Discretionary,Fast Food
+1,3/23/2022, $46.99 ,Discretionary,Gym
+1,3/25/2022, $19.00 ,Discretionary,Fast Food
+1,3/28/2022, $20.97 ,Discretionary,Fast Food
+1,3/28/2022, $9.75 ,Discretionary,Fast Food
+1,3/28/2022, $18.23 ,Discretionary,Fast Food
+1,3/28/2022, $14.81 ,Discretionary,Fast Food
+1,3/28/2022, $4.50 ,Discretionary,Misc.
+1,3/28/2022, $2.31 ,Discretionary,Fast Food
+1,3/28/2020, $27.67 ,Discretionary,Fast Food
+1,3/28/2022, $100.00 ,Transfer,Transfer
+1,3/28/2022, $19.59 ,Discretionary,Fast Food
+1,3/28/2022, $48.29 ,Variable,Groceries
+1,3/28/2022, $59.35 ,Variable,Gas
+1,3/28/2022, $100.00 ,Fixed,Utilities
+1,3/29/2022, $2.00 ,Discretionary,Misc.
+1,3/29/2022, $852.00 ,Fixed,Rent
+1,3/29/2022, $100.00 ,Transfer,Transfer
+1,3/30/2022, $4.40 ,Discretionary,Fast Food
+1,3/31/2022, $10.00 ,Discretionary,Fast Food
+1,3/29/2022, $6.95 ,Discretionary,Fast Food
+2,3/1/2022, $436.25 ,Discretionary,Misc.
+2,3/3/2022, $490.00 ,Fixed,Bootcamp
+2,3/7/2022, $10.78 ,Discretionary,Fast Food
+2,3/7/2022, $(445.00),Transfer,Transfer
+2,3/6/2022, $20.49 ,Variable,Groceries
+2,3/11/2022, $11.53 ,Discretionary,Misc.
+2,3/11/2022, $13.31 ,Discretionary,Misc.
+2,3/11/2022, $2.00 ,Discretionary,Misc.
+2,3/11/2022, $15.94 ,Discretionary,Misc.
+2,3/13/2022, $18.92 ,Discretionary,Fast Food
+2,3/16/2022, $2.14 ,Discretionary,Misc.
+2,3/23/2022, $(150.00),Transfer,Transfer
+2,3/28/2022, $7.00 ,Fixed,Utilities
+1,4/1/2020, $25.00 ,Discretionary,Misc.
+1,4/2/2020, $24.29 ,Discretionary,Fast Food
+1,4/2/2020, $4.03 ,Discretionary,Fast Food
+1,4/5/2020, $33.61 ,Discretionary,Fast Food
+1,4/5/2020, $11.57 ,Discretionary,Fast Food
+1,4/5/2020, $(367.00),Fixed,Rent
+1,4/5/2020, $22.69 ,Variable,Car
+1,4/5/2020, $15.00 ,Discretionary,Misc.
+1,4/5/2020, $41.87 ,Discretionary,Fast Food
+1,4/5/2020, $1.49 ,Discretionary,Fast Food
+1,4/6/2020, $723.00 ,Fixed,Rent
+1,4/5/2020, $100.00 ,Fixed,Utilities
+1,4/5/2020, $20.00 ,Discretionary,Misc.
+1,4/6/2020, $2.95 ,Fixed,Rent
+1,4/6/2020, $14.00 ,Discretionary,Misc.
+1,4/7/2020, $9.52 ,Discretionary,Fast Food
+1,4/12/2020, $5.76 ,Discretionary,Fast Food
+1,4/12/2020, $12.50 ,Discretionary,Misc.
+1,4/5/2020, $3.48 ,Discretionary,Fast Food
+1,4/12/2020, $600.00 ,Transfer,Transfer
+1,4/12/2020, $36.00 ,Transfer,Transfer
+1,4/12/2020, $60.00 ,Transfer,Transfer
+1,4/12/2020, $30.00 ,Transfer,Transfer
+1,4/12/2020, $14.12 ,Transfer,Transfer
+1,4/12/2020, $60.77 ,Fixed,Utilities
+1,4/12/2020, $50.00 ,Transfer,Transfer
+1,4/13/2020, $72.00 ,Transfer,Transfer
+1,4/13/2020, $20.00 ,Transfer,Transfer
+1,4/14/2020, $(9.02),Transfer,Transfer
+1,4/14/2020, $40.00 ,Transfer,Transfer
+1,4/14/2020, $10.00 ,Transfer,Transfer
+1,4/14/2020, $10.00 ,Transfer,Transfer
+1,4/14/2020, $14.99 ,Discretionary,Misc.
+1,4/16/2020, $20.00 ,Transfer,Transfer
+1,4/16/2020, $9.99 ,Discretionary,Misc.
+1,4/19/2020, $20.00 ,Transfer,Transfer
+1,4/19/20201, $10.00 ,Transfer,Transfer
+1,4/21/2020, $20.00 ,Transfer,Transfer
+1,4/21/2020, $10.00 ,Transfer,Transfer
+1,4/21/2020, $10.00 ,Transfer,Transfer
+1,4/22/2020, $30.00 ,Transfer,Transfer
+1,4/22/2020, $20.00 ,Transfer,Transfer
+1,4/26/2020, $75.69 ,Variable,Groceries
+1,4/26/2020, $45.99 ,Variable,Car
+1,4/26/2020, $10.03 ,Discretionary,Fast Food
+1,4/26/2020, $154.00 ,Transfer,Transfer
+1,4/26/2020, $154.00 ,Transfer,Transfer
+1,4/27/2020, $154.00 ,Transfer,Transfer
+1,4/28/2020, $19.04 ,Discretionary,Fast Food
+1,4/29/2020, $(668.82),Transfer,Transfer
+1,4/29/2020, $53.86 ,Discretionary,Misc.
+1,4/29/2020, $35.85 ,Discretionary,Fast Food
+2,4/3/2020, $(773.00),Transfer,Transfer
+2,4/4/2020, $8.86 ,Discretionary,Fast Food
+2,4/4/2020, $7.05 ,Discretionary,Fast Food
+2,4/5/2020, $8.63 ,Discretionary,Fast Food
+2,4/5/2020, $20.00 ,Discretionary,Misc.
+2,4/6/2020, $164.53 ,Discretionary,Misc.
+2,4/7/2020, $34.57 ,Variable,Car
+2,4/7/2020," $(1,000.00)",Discretionary,Misc.
+2,4/8/2020, $210.00 ,Discretionary,Misc.
+2,4/9/2020," $1,000.00 ",Discretionary,Misc.
+2,4/11/2020, $5.00 ,Discretionary,Misc.
+2,4/11/2020, $55.37 ,Discretionary,Misc.
+2,4/4/2020, $34.10 ,Variable,Groceries
+2,4/17/2020, $35.58 ,Variable,Car
+2,4/12/2020, $6.43 ,Discretionary,Fast Food
+2,4/18/2020, $53.44 ,Variable,Groceries
+2,4/18/2020, $19.75 ,Discretionary,Misc.
+2,4/18/2020, $13.99 ,Discretionary,Misc.
+2,4/19/2020, $25.58 ,Discretionary,Misc.
+2,4/19/2020, $14.00 ,Discretionary,Misc.
+2,4/21/2020, $19.98 ,Variable,Groceries
+2,4/21/2020, $19.63 ,Discretionary,Fast Food
+2,4/21/2020, $8.00 ,Discretionary,Misc.
+2,4/21/2020, $7.00 ,Discretionary,Misc.
+2,4/24/2020, $14.54 ,Discretionary,Misc.
+2,4/25/2020, $10.38 ,Discretionary,Fast Food
+2,4/28/2020, $(103.04),Transfer,Transfer
+2,4/28/2020, $5.00 ,Discretionary,Misc.
+2,4/28/2020, $7.00 ,Fixed,Rent
+2,4/29/2020, $134.39 ,Fixed,Loans
+1,5/2/2022, $5.57 ,Discretionary,Fast Food
+1,5/5/2022, $31.36 ,Discretionary,Fast Food
+1,5/9/2022, $10.75 ,Discretionary,Fast Food
+1,5/9/2022, $46.22 ,Variable,Groceries
+1,5/9/2022, $40.00 ,Discretionary,Fast Food
+1,5/9/2022, $243.00 ,Transfer,Transfer
+1,5/9/2022, $8.00 ,Discretionary,Fast Food
+1,5/9/2022, $650.00 ,Transfer,Transfer
+1,5/9/2022, $24.14 ,Variable,Groceries
+1,5/10/2022, $5.50 ,Discretionary,Fast Food
+1,5/10/2022, $13.98 ,Discretionary,Fast Food
+1,5/10/2022, $2.95 ,Discretionary,Fast Food
+1,5/12/2022, $58.88 ,Variable,Gas
+1,5/12/2022, $25.31 ,Discretionary,Misc.
+1,5/12/2022, $3.22 ,Discretionary,Fast Food
+1,5/12/2022, $11.85 ,Discretionary,Fast Food
+1,5/12/2022, $6.00 ,Discretionary,Misc.
+1,5/13/2022, $17.70 ,Fixed,Utilities
+1,5/16/2022, $28.00 ,Discretionary,Fast Food
+1,5/16/2022, $15.00 ,Fixed,Utilities
+1,5/16/2022, $22.52 ,Discretionary,Misc.
+1,5/16/2022, $17.35 ,Discretionary,Misc.
+1,5/16/2022, $14.00 ,Discretionary,Fast Food
+1,5/23/2022, $11.95 ,Discretionary,Fast Food
+1,5/23/2022, $11.29 ,Discretionary,Fast Food
+1,5/23/2022, $2.95 ,Discretionary,Fast Food
+1,5/23/2022, $12.91 ,Discretionary,Fast Food
+1,5/23/2022, $86.15 ,Discretionary,Fast Food
+1,5/16/2022, $9.99 ,Discretionary,Misc.
+1,5/23/2022, $78.89 ,Variable,Gas
+1,5/23/2022, $54.60 ,Variable,Groceries
+1,5/23/2022, $40.74 ,Discretionary,Fast Food
+1,5/23/2022, $46.99 ,Discretionary,Misc.
+1,5/24/2022, $856.00 ,Fixed,Rent
+1,5/26/2022, $25.31 ,Discretionary,Misc.
+1,5/31/2022, $7.00 ,Fixed,Utilities
+2,5/2/2022, $3.59 ,Discretionary,Fast Food
+2,5/3/2022, $47.81 ,Variable,Groceries
+2,5/3/2022, $2.00 ,Variable,Groceries
+2,5/3/2022, $2.00 ,Variable,Groceries
+2,5/4/2022, $489.38 ,Fixed,Bootcamp
+2,5/4/2022, $28.00 ,Discretionary,Misc.
+2,5/4/2022, $11.03 ,Discretionary,Fast Food
+2,5/4/2022, $69.23 ,Variable,Gas
+2,5/6/2022, $7.39 ,Discretionary,Fast Food
+2,5/6/2022, $6.00 ,Discretionary,Misc.
+2,5/6/2022, $26.70 ,Discretionary,Fast Food
+2,5/8/2022, $(12.66),Transfer,Transfer
+2,5/8/2022, $5.00 ,Discretionary,Misc.
+2,5/8/2022, $14.55 ,Discretionary,Fast Food
+2,5/10/2022, $(650.00),Transfer,Transfer
+2,5/10/2022, $54.61 ,Discretionary,Misc.
+2,5/15/2022, $23.68 ,Variable,Groceries
+2,5/16/2022, $10.00 ,Discretionary,Misc.
+2,5/16/2022, $7.53 ,Discretionary,Fast Food
+2,5/17/2022, $20.70 ,Discretionary,Fast Food
+2,5/19/2022, $7.39 ,Discretionary,Fast Food
+2,5/19/2022, $2.99 ,Discretionary,Fast Food
+2,5/19/2022, $6.00 ,Discretionary,Misc.
+2,5/20/2022, $7.93 ,Discretionary,Fast Food
+2,5/22/2022, $(150.00),Transfer,Transfer
+2,5/22/2022, $27.35 ,Discretionary,Fast Food
+2,5/23/2022, $21.93 ,Variable,Groceries
+2,5/24/2022, $54.61 ,Discretionary,Misc.
+2,5/25/2022, $8.35 ,Discretionary,Fast Food
+2,5/26/2022, $7.39 ,Discretionary,Fast Food
+2,5/26/2022, $6.00 ,Discretionary,Misc.
+2,5/26/2022, $2.97 ,Discretionary,Fast Food
+2,5/26/2022, $1.00 ,Discretionary,Misc.
+2,5/26/2022, $42.95 ,Transfer,Transfer
+2,5/26/2022, $2.00 ,Discretionary,Misc.
+2,5/27/2022, $7.54 ,Discretionary,Fast Food
+2,5/29/2022, $8.19 ,Discretionary,Fast Food
+2,5/29/2022, $9.69 ,Discretionary,Misc.
+2,5/29/2022, $17.80 ,Discretionary,Fast Food
+2,5/29/2022, $29.70 ,Discretionary,Fast Food
+2,5/30/2022, $24.48 ,Discretionary,Fast Food
+2,5/30/2022, $5.75 ,Discretionary,Fast Food
+2,5/30/2022, $21.59 ,Discretionary,Fast Food
+2,5/30/2022, $(281.00),Transfer,Transfer
+2,5/30/2022, $38.04 ,Variable,Groceries
+2,5/31/2022, $16.12 ,Discretionary,Fast Food
+2,5/31/2022, $5.15 ,Discretionary,Fast Food
+2,6/1/2020, $150.00 ,Transfer,Transfer
+2,6/15/2020, $210.00 ,Transfer,Transfer
+2,6/22/2020, $(179.00),Transfer,Transfer
+2,6/26/2020, $260.00 ,Transfer,Transfer
+1,6/1/2020, $12.25 ,Discretionary,Fast Food
+1,6/1/2020, $8.75 ,Discretionary,Fast Food
+1,6/1/2020, $10.00 ,Discretionary,Fast Food
+1,6/1/2020, $(150.00),Transfer,Transfer
+1,6/2/2020, $490.00 ,Discretionary,Misc.
+1,6/2/2020, $61.45 ,Variable,Car
+1,6/2/2020, $11.49 ,Discretionary,Misc.
+1,6/2/2020, $16.15 ,Discretionary,Fast Food
+1,6/2/2020, $(25.83),Transfer,Transfer
+1,6/9/2020, $(357.90),Transfer,Transfer
+1,6/14/2020, $30.04 ,Discretionary,Fast Food
+1,6/16/2020, $183.12 ,Discretionary,Misc.
+1,6/22/2020, $(351.00),Transfer,Transfer
+1,6/23/2020, $15.66 ,Variable,Groceries
+1,6/23/2020, $7.65 ,Discretionary,Fast Food
+1,6/25/2020, $56.00 ,Discretionary,Misc.
+1,6/27/2020, $16.62 ,Discretionary,Misc.
+1,6/27/2020, $36.00 ,Discretionary,Misc.
+1,6/28/2020, $18.53 ,Discretionary,Fast Food
+1,6/26/2020, $(260.00),Transfer,Transfer
+1,6/27/2020, $26.34 ,Discretionary,Fast Food
+1,6/27/2020, $12.50 ,Discretionary,Fast Food
+1,6/28/2020, $31.55 ,Variable,Groceries
+1,6/28/2020, $67.67 ,Discretionary,Fast Food
+1,6/28/2020, $7.00 ,Fixed,Utilities
+1,6/3/2022, $81.40 ,Variable,Gas
+1,6/6/2022, $3.42 ,Discretionary,Misc.
+1,6/3/2022, $18.48 ,Discretionary,Misc.
+1,6/6/2022, $10.75 ,Discretionary,Fast Food
+1,6/6/2022, $4.84 ,Discretionary,Fast Food
+1,6/6/2022, $29.00 ,Discretionary,Fast Food
+1,6/6/2022, $25.00 ,Discretionary,Misc.
+1,6/6/2022, $500.00 ,Transfer,Transfer
+1,6/6/2022, $450.00 ,Transfer,Transfer
+1,6/7/2022, $50.00 ,Transfer,Transfer
+1,6/9/2022, $6.00 ,Discretionary,Misc.
+1,6/9/2022, $2.97 ,Discretionary,Fast Food
+1,6/9/2022, $58.42 ,Variable,Gas
+1,6/10/2022, $7.39 ,Discretionary,Fast Food
+1,6/10/2022, $6.00 ,Discretionary,Misc.
+1,6/10/2022, $12.93 ,Discretionary,Fast Food
+1,6/10/2022, $2.97 ,Discretionary,Fast Food
+1,6/10/2022, $25.32 ,Discretionary,Misc.
+1,6/10/2022, $14.54 ,Variable,Groceries
+1,6/13/2022, $2.00 ,Variable,Groceries
+1,6/13/2022, $2.00 ,Variable,Groceries
+1,6/13/2022, $4.00 ,Variable,Groceries
+1,6/13/2022, $22.71 ,Fixed,Utilities
+1,6/13/2022, $7.19 ,Discretionary,Fast Food
+1,6/13/2022, $11.80 ,Discretionary,Fast Food
+1,6/13/2022, $7.53 ,Discretionary,Fast Food
+1,6/13/0222, $6.20 ,Discretionary,Fast Food
+1,6/14/2022, $37.00 ,Fixed,Utilities
+1,6/16/2022, $9.99 ,Discretionary,Misc.
+1,6/16/2022, $11.50 ,Discretionary,Fast Food
+1,6/16/2022, $22.71 ,Discretionary,Fast Food
+1,6/21/2022, $17.80 ,Discretionary,Fast Food
+1,6/21/2022, $5.25 ,Discretionary,Fast Food
+1,6/21/2022, $11.74 ,Discretionary,Fast Food
+1,6/21/2022, $4.15 ,Discretionary,Fast Food
+1,6/21/2022, $52.91 ,Discretionary,Misc.
+1,6/21/2022, $70.62 ,Discretionary,Misc.
+1,6/21/2022, $50.53 ,Variable,Groceries
+1,6/21/2022, $5.85 ,Discretionary,Fast Food
+1,6/21/2022, $12.00 ,Discretionary,Misc.
+1,6/21/2022, $100.00 ,Transfer,Transfer
+1,6/22/2022, $856.00 ,Fixed,Rent
+1,6/23/2022, $17.91 ,Variable,Groceries
+1,6/23/2022, $46.99 ,Discretionary,Gym
+1,6/23/2022, $14.94 ,Discretionary,Fast Food
+1,6/23/2022, $71.34 ,Variable,Gas
+1,6/21/2022, $5.80 ,Discretionary,Misc.
+2,6/1/2022, $(234.24),Transfer,Transfer
+2,6/1/2022, $(225.00),Transfer,Transfer
+2,6/1/2022, $50.53 ,Discretionary,Fast Food
+2,6/2/2022, $489.98 ,Fixed,Bootcamp
+2,6/2/2022, $10.71 ,Discretionary,Fast Food
+2,6/3/2022, $1.69 ,Discretionary,Fast Food
+2,6/3/2022, $6.00 ,Discretionary,Misc.
+2,6/6/2022, $78.00 ,Discretionary,Fast Food
+2,6/6/2022, $171.47 ,Discretionary,Misc.
+2,6/6/2022, $(134.66),Transfer,Transfer
+2,6/7/2022, $(500.00),Transfer,Transfer
+2,6/7/2022, $54.62 ,Discretionary,Misc.
+2,6/8/2022, $40.58 ,Variable,Groceries
+2,6/10/2022, $(91.10),Transfer,Transfer
+2,6/11/2022, $713.59 ,Transfer,Transfer
+2,6/13/2022, $42.24 ,Variable,Groceries
+2,6/13/2022, $45.91 ,Variable,Gas
+2,6/14/2022, $4.89 ,Discretionary,Fast Food
+2,6/15/2022, $1.69 ,Discretionary,Fast Food
+2,6/15/2022, $6.00 ,Discretionary,Misc.
+2,6/16/2022, $4.50 ,Discretionary,Misc.
+2,6/16/2022, $40.00 ,Discretionary,Misc.
+2,6/16/2022, $4.50 ,Discretionary,Misc.
+2,6/18/2022, $(150.00),Transfer,Transfer
+2,6/19/2022, $4.50 ,Discretionary,Misc.
+2,6/22/2022, $(100.00),Transfer,Transfer
+2,6/23/2022, $41.18 ,Discretionary,Fast Food
+2,6/23/2022, $9.75 ,Discretionary,Fast Food
+1,7/2/2020, $13.85 ,Variable,Groceries
+1,7/6/2020, $7.34 ,Discretionary,Fast Food
+1,7/6/2020, $2.68 ,Discretionary,Fast Food
+1,7/6/2020, $1.39 ,Discretionary,Fast Food
+1,7/6/2020, $5.92 ,Discretionary,Fast Food
+1,7/6/2020, $20.60 ,Discretionary,Fast Food
+1,7/6/2020, $10.18 ,Discretionary,Fast Food
+1,7/6/2020, $5.19 ,Discretionary,Fast Food 
+1,7/6/2020, $47.83 ,Discretionary,Fast Food
+1,7/6/2020, $4.58 ,Discretionary,Fast Food
+1,7/6/2020, $25.11 ,Variable,Groceries
+1,7/7/2020, $(10.50),Transfer,Transfer
+1,7/7/2020, $23.59 ,Fixed,Utilities
+1,7/8/2020, $16.29 ,Variable,Groceries
+1,7/12/2020, $25.54 ,Discretionary,Fast Food
+1,7/12/2020, $17.83 ,Discretionary,Fast Food
+1,7/12/2020, $19.88 ,Discretionary,Fast Food
+1,7/12/2020, $3.68 ,Discretionary,Misc.
+1,7/12/2020, $16.00 ,Discretionary,Misc.
+1,7/12/2020, $10.00 ,Discretionary,Misc.
+1,7/12/2020, $32.31 ,Discretionary,Fast Food
+1,7/12/2020, $9.99 ,Discretionary,Misc.
+1,7/14/2020, $11.16 ,Discretionary,Fast Food
+1,7/14/2020, $9.00 ,Variable,Groceries
+1,7/14/2020, $12.44 ,Discretionary,Fast Food
+1,7/15/2020, $12.69 ,Discretionary,Misc.
+1,7/15/2020, $26.75 ,Discretionary,Fast Food
+1,7/19/2020, $8.01 ,Discretionary,Fast Food 
+1,7/16/2020, $9.99 ,Discretionary,Misc.
+1,7/19/2020, $15.54 ,Discretionary,Fast Food
+1,7/19/2020, $45.16 ,Discretionary,Fast Food
+1,7/19/2020, $2.90 ,Variable,Groceries
+1,7/19/2020, $4.69 ,Discretionary,Fast Food
+1,7/19/2020, $16.50 ,Discretionary,Fast Food
+1,7/19/2020, $1.35 ,Discretionary,Misc.
+1,7/19/2020, $0.49 ,Discretionary,Misc.
+1,7/19/2020, $0.46 ,Discretionary,Misc.
+1,7/19/2020, $0.24 ,Discretionary,Misc.
+1,7/19/2020, $0.14 ,Discretionary,Misc.
+1,7/19/2020, $0.08 ,Discretionary,Misc.
+1,7/21/2020, $34.36 ,Discretionary,Fast Food
+1,7/21/2020, $46.41 ,Discretionary,Misc.
+1,7/21/2020, $23.47 ,Discretionary,Fast Food
+1,7/21/2020, $1.39 ,Discretionary,Misc.
+1,7/21/2020, $1.03 ,Discretionary,Misc.
+1,7/21/2020, $0.70 ,Discretionary,Misc.
+1,7/23/2020, $6.50 ,Discretionary,Fast Food
+1,7/23/2020, $8.40 ,Variable,Groceries
+1,7/23/2020, $12.95 ,Discretionary,Fast Food
+1,7/23/2020, $13.01 ,Discretionary,Fast Food
+1,7/23/2020, $60.82 ,Variable,Car
+1,7/23/2020, $14.00 ,Discretionary,Misc.
+1,7/23/2020, $0.38 ,Discretionary,Misc.
+1,7/23/2020, $0.25 ,Discretionary,Misc.
+1,7/23/2020, $0.19 ,Discretionary,Misc.
+1,7/26/2020, $51.10 ,Discretionary,Groceries
+1,7/26/2020, $46.99 ,Discretionary,Misc.
+1,7/26/2020, $55.75 ,Discretionary,Fast Food
+1,7/26/2020, $10.77 ,Variable,Groceries
+1,7/27/2020, $940.00 ,Fixed,Rent
+1,7/27/2020, $4.34 ,Discretionary,Fast Food
+1,7/27/2020, $14.54 ,Discretionary,Fast Food
+1,7/26/2020, $500.00 ,Transfer,Transfer
+2,7/1/2020, $(0.12),Interest,Interest
+2,7/27/2020, $(500.00),Transfer,Transfer
+2,7/28/2020, $12.64 ,Transfer,Transfer
+2,7/30/2020, $37.09 ,Transfer,Transfer
+2,7/31/2020, $600.00 ,Transfer,Transfer
+2,7/31/2020, $(0.12),Interest,Interest
+1,9/2/2020, $11.13 ,Discretionary,Fast Food
+1,9/3/2020, $36.00 ,Discretionary,Fast Food
+1,9/7/2020, $5.20 ,Discretionary,Fast Food
+1,9/10/2020, $9.99 ,Discretionary,Misc.
+1,9/13/2020, $12.40 ,Discretionary,Fast Food
+1,9/13/2020, $34.05 ,Discretionary,Fast Food
+1,9/13/2020, $32.32 ,Discretionary,Misc.
+1,9/13/2020, $42.03 ,Variable,Groceries
+1,9/13/2020, $50.00 ,Discretionary,Misc.
+1,9/15/2020, $11.16 ,Discretionary,Fast Food
+1,9/15/2020, $22.63 ,Discretionary,Fast Food
+1,9/16/2020, $9.99 ,Discretionary,Misc.
+1,9/16/2020, $500.00 ,Transfer,Transfet
+1,9/17/2020, $17.73 ,Discretionary,Misc.
+1,9/17/2020, $23.56 ,Discretionary,Misc.
+1,9/17/2020, $10.50 ,Discretionary,Misc.
+1,9/17/2020, $49.99 ,Discretionary,Misc.
+1,9/17/2020, $68.22 ,Fixed,Utilities
+1,9/20/2020, $4.85 ,Discretionary,Fast Food
+1,9/20/2020, $23.81 ,Discretionary,Fast Food
+1,9/20/2020, $69.91 ,Variable,Groceries
+1,9/24/2020, $14.73 ,Discretionary,Fast Food
+1,9/24/2020, $11.13 ,Discretionary,Fast Food
+1,9/24/2020, $46.99 ,Discretionary,Misc.
+1,9/27/2020, $160.00 ,Variable,Utilities
+1,9/27/2020, $5.93 ,Variable,Car
+1,9/27/2020, $36.78 ,Variable,Groceries
+1,9/27/2020, $15.18 ,Discretionary,Fast Food
+1,9/27/2020, $8.76 ,Discretionary,Fast Food
+1,9/28/2020, $940.00 ,Fixed,Rent
+1,9/30/2020, $4.60 ,Discretionary,Fast Food
+2,9/2/2020, $490.00 ,Fixed,Misc.
+2,9/3/2020, $13.80 ,Discretionary,Fast Food
+2,9/5/2020, $36.87 ,Variable,Car
+2,9/6/2020, $7.76 ,Discretionary,Fast Food
+2,9/6/2020, $7.06 ,Discretionary,Fast Food
+2,9/6/2020, $10.17 ,Discretionary,Fast Food
+2,9/6/2020, $6.69 ,Discretionary,Fast Food
+2,9/7/2020, $63.25 ,Discretionary,Fast Food
+2,9/7/2020, $(150.00),Transfer,Transfer
+2,9/8/2020, $56.43 ,Variable,Groceries
+2,9/8/2020, $13.01 ,Discretionary,Fast Food
+2,9/17/2020,-$500.00,Transfer,Transfer
+2,9/17/2020, $9.71 ,Discretionary,Fast Food
+2,9/19/2020, $16.16 ,Variable,Groceries
+2,9/19/2020, $55.46 ,Variable,Car
+2,9/20/2020, $6.38 ,Discretionary,Fast Food
+2,9/21/2020, $55.33 ,Discretionary,Fast Food
+2,9/21/2020, $26.24 ,Variable,Car
+2,9/21/2020, $38.04 ,Variable,Car
+2,9/25/2020, $(217.17),Transfer,Transfer
+2,9/27/2020, $17.17 ,Discretionary,Misc.
+2,9/28/2020, $7.00 ,Discretionary,Misc.
+2,9/29/2020, $5.39 ,Discretionary,Fast Food
+2,9/30/2020, $16.23 ,Discretionary,Fast Food
+1,10/8/2020, $28.33 ,Variable,Groceries
+1,10/12/2020, $13.53 ,Discretionary,Fast Food
+1,10/12/2020, $130.00 ,Variable,Car
+1,10/12/2020, $290.00 ,Discretionary,Misc.
+1,10/12/2020, $500.00 ,Transfer,Transfer
+1,10/12/2020, $42.97 ,Variable,Groceries
+1,10/12/2020, $26.08 ,Discretionary,Fast Food
+1,10/12/2020, $47.37 ,Variable,Car
+1,10/12/2020, $13.63 ,Discretionary,Fast Food
+1,10/12/2020, $9.99 ,Discretionary,Misc.
+1,10/14/2020, $24.86 ,Discretionary,Fast Food
+1,10/15/2020, $4.95 ,Discretionary,Fast Food
+1,10/18/2020, $3.79 ,Discretionary,Fast Food
+1,10/18/2020, $43.94 ,Variable,Car
+1,10/18/2020, $9.99 ,Discretionary,Misc.
+1,10/18/2020, $13.00 ,Discretionary,Misc.
+1,10/20/2020, $17.00 ,Discretionary,Misc.
+1,10/25/2020, $23.68 ,Discretionary,Fast Food
+1,10/25/2020, $46.99 ,Discretionary,Gym
+1,10/25/2020, $5.50 ,Discretionary,Misc.
+1,10/26/2020, $6.00 ,Discretionary,Misc.
+1,10/26/2020, $4.02 ,Discretionary,Fast Food
+1,10/26/2020, $47.26 ,Variable,Car
+1,10/27/2020, $6.93 ,Discretionary,Fast Food
+1,10/27/2020, $26.00 ,Discretionary,Misc.
+1,10/28/2020, $26.00 ,Discretionary,Misc.
+2,10/1/2020, $40.31 ,Discretionary,Misc.
+2,10/1/2020, $25.19 ,Variable,Groceries
+2,10/1/2020, $13.63 ,Discretionary,Fast Food
+2,10/3/2020, $5.22 ,Discretionary,Fast Food
+2,10/3/2020, $7.00 ,Discretionary,Fast Food
+2,10/2/2020, $(300.00),Transfer,Transfer
+2,10/2/2020, $79.33 ,Variable,Groceries
+2,10/4/2020, $490.00 ,Discretionary,Misc.
+2,10/4/2020, $16.10 ,Discretionary,Fast Food
+2,10/4/2020, $53.84 ,Variable,Car
+2,10/4/2020, $120.11 ,Discretionary,Fast Food
+2,10/8/2020, $34.09 ,Discretionary,Fast Food
+2,10/12/2020, $(700.00),Transfer,Transfer
+2,10/12/2020, $(350.00),Transfer,Transfer
+2,10/13/2020, $(500.00),Transfer,Transfer
+2,10/14/2020, $14.99 ,Discretionary,Misc.
+2,10/15/2020, $40.64 ,Discretionary,Fast Food
+2,10/15/2020, $22.90 ,Discretionary,Fast Food
+2,10/17/2020, $55.58 ,Discretionary,Fast Food
+2,10/17/2020, $23.03 ,Variable,Groceries
+2,10/18/2020, $6.00 ,Discretionary,Fast Food
+2,10/18/2020, $828.55 ,Transfer,Transfer
+2,10/20/2020, $49.31 ,Variable,Groceries
+2,10/28/2020, $7.00 ,Fixed,Utilities
+2,10/31/2020, $182.65 ,Discretionary,Misc.
+2,10/31/2020, $8.08 ,Discretionary,Misc.
+2,10/31/2020, $(300.00),Transfer,Transfer
+1,11/1/2020, $25.04 ,Discretionary,Fast Food
+1,11/1/2020, $4.31 ,Discretionary,Fast Food
+1,11/1/2020, $10.19 ,Variable,Grocery
+1,11/1/2020, $940.00 ,Fixed,Rent
+1,11/2/2020, $7.00 ,Discretionary,Fast Food
+1,11/3/2020, $47.27 ,Variable,Car
+1,11/4/2020, $4.50 ,Discretionary,Misc.
+1,11/4/2020, $2.86 ,Discretionary,Fast Food
+1,11/4/2020, $24.86 ,Discretionary,Fast Food
+1,11/5/2020, $21.88 ,Variable,Car
+1,11/8/2020, $31.06 ,Discretionary,Fast Food
+1,11/8/2020, $35.00 ,Discretionary,Misc.
+1,11/8/2020, $10.00 ,Discretionary,Fast Food
+1,11/8/2020, $8.05 ,Discretionary,Misc.
+1,11/8/2020, $7.01 ,Discretionary,Fast Food
+1,11/8/2020, $28.88 ,Variable,Car
+1,11/8/2020, $30.21 ,Discretionary,Fast Food
+1,11/8/2020, $115.56 ,Variable,Grocery
+1,11/8/2020, $100.00 ,Fixed,Utilities
+1,11/8/2020, $32.10 ,Variable,Utilities
+1,11/8/2020, $30.00 ,Variable,Utilities
+1,11/8/2020, $6.98 ,Variable,Grocery
+1,11/9/2020, $161.61 ,Discretionary,Misc.
+1,11/10/2020, $6.00 ,Discretionary,Misc.
+1,11/10/2020, $2.97 ,Discretionary,Fast Food
+1,11/10/2020, $36.87 ,Variable,Car
+1,11/10/2020, $9.99 ,Discretionary,Misc.
+1,11/12/2020, $6.93 ,Discretionary,Fast Food
+1,11/12/2020, $13.63 ,Discretionary,Fast Food
+1,11/12/2020, $21.55 ,Discretionary,Fast Food
+1,11/12/2020, $50.56 ,Discretionary,Misc.
+1,11/12/2020, $22.72 ,Variable,Grocery
+1,11/15/2020, $(8.05),Refund,Refund
+1,11/15/2020, $14.24 ,Discretionary,Fast Food
+1,11/15/2020, $11.86 ,Discretionary,Fast Food
+1,11/15/2020, $23.61 ,Variable,Car
+1,11/15/2020, $1.75 ,Discretionary,Misc.
+1,11/15/2020, $2.75 ,Discretionary,Fast Food
+1,11/15/2020, $21.54 ,Discretionary,Fast Food
+1,11/15/2020, $10.00 ,Discretionary,Fast Food
+1,11/15/2020, $1.13 ,Variable,Grocery
+1,11/15/2020, $33.27 ,Discretionary,Misc.
+1,11/15/2020, $16.89 ,Discretionary,Misc.
+1,11/15/2020, $25.00 ,Discretionary,Misc.
+1,11/16/2020, $22.64 ,Discretionary,Fast Food
+1,11/16/2020, $9.99 ,Discretionary,Misc.
+1,11/18/2020, $14.38 ,Discretionary,Fast Food
+1,11/18/2020, $61.52 ,Variable,Car
+1,11/19/2020, $4.50 ,Discretionary,Misc.
+1,11/19/2020, $10.94 ,Discretionary,Fast Food
+1,11/19/2020, $5.67 ,Discretionary,Fast Food
+1,11/19/2020, $35.00 ,Discretionary,Misc.
+1,11/22/2020, $500.00 ,Transfer,Transfer
+1,11/22/2020, $18.40 ,Discretionary,Fast Food
+1,11/22/2020, $53.65 ,Discretionary,Fast Food
+1,11/22/2020, $56.02 ,Variable,Grocery
+1,11/22/2020, $10.19 ,Variable,Car
+1,11/22/2020, $9.37 ,Discretionary,Fast Food
+1,11/22/2020, $30.60 ,Discretionary,Misc.
+1,11/22/2020, $10.00 ,Discretionary,Misc.
+1,11/22/2020, $6.00 ,Discretionary,Misc.
+1,11/23/2020, $3.90 ,Discretionary,Fast Food
+1,11/23/2020, $940.00 ,Fixed,Rent
+1,11/23/2020, $46.99 ,Discretionary,Gym
+1,11/24/2020, $2.97 ,Discretionary,Fast Food
+1,11/24/2020, $4.50 ,Discretionary,Misc.
+1,11/26/2020, $12.08 ,Discretionary,Fast Food
+1,11/26/2020, $48.23 ,Variable,Car
+1,11/26/2020, $11.13 ,Discretionary,Fast Food
+1,11/26/2020, $6.93 ,Discretionary,Fast Food
+1,11/29/2020, $8.00 ,Discretionary,Misc.
+1,11/29/2020, $38.00 ,Discretionary,Misc.
+2,11/14/2020," $1,700.00 ",Transfer,Transfer
+2,11/20/2020, $(850.00),Transfer,Transfer
+2,11/28/2020, $200.00 ,Transfer,Transfer
+2,11/29/2020, $340.00 ,Transfer,Transfer
+2,11/30/2020, $0.06 ,Appreciation,Appreciation
+1,12/2/2020, $11.85 ,Discretionary,Misc.
+1,12/2/2020, $0.74 ,Discretionary,Misc.
+1,12/3/2020, $29.99 ,Discretionary,Fast Food
+1,12/3/2020, $2.97 ,Discretionary,Misc.
+1,12/3/2020, $0.89 ,Discretionary,Misc.
+1,12/6/2020, $10.36 ,Discretionary,Misc.
+1,12/6/2020, $17.81 ,Discretionary,Misc.
+1,12/6/2020, $150.00 ,Transfer,Transfer
+1,12/6/2020, $500.00 ,Transfer,Transfer
+1,12/6/2020, $13.82 ,Discretionary,Fast Food
+1,12/6/2020, $12.59 ,Discretionary,Fast Food
+1,12/6/2020, $10.56 ,Discretionary,Fast Food
+1,12/6/2020, $24.33 ,Variable,Grocery
+1,12/6/2020, $7.53 ,Variable,Car
+1,12/6/2020, $14.95 ,Discretionary,Misc.
+1,12/6/2020, $44.49 ,Variable,Car
+1,12/6/2020, $84.00 ,Discretionary,Misc.
+1,12/6/2020, $24.67 ,Discretionary,Misc.
+1,12/6/2020, $0.53 ,Discretionary,Misc.
+1,12/6/2020, $0.31 ,Discretionary,Misc.
+1,12/7/2020, $12.92 ,Discretionary,Fast Food
+1,12/8/2020, $6.00 ,Discretionary,Misc.
+1,12/9/2020, $3.39 ,Discretionary,Fast Food
+1,12/9/2020, $6.93 ,Discretionary,Fast Food
+1,12/10/2020, $20.25 ,Discretionary,Misc.
+1,12/10/2020, $49.75 ,Variable,Grocery
+1,12/10/2020, $12.45 ,Discretionary,Fast Food
+1,12/10/2020, $9.99 ,Discretionary,Misc.
+1,12/10/2020, $27.08 ,Discretionary,Fast Food
+1,12/13/2020, $10.69 ,Variable,Grocery
+1,12/13/2020, $14.13 ,Discretionary,Fast Food
+1,12/13/2020, $10.99 ,Discretionary,Misc.
+1,12/13/2020, $3.00 ,Discretionary,Misc.
+1,12/14/2020, $53.67 ,Variable,Car
+1,12/15/2020, $17.59 ,Discretionary,Misc.
+1,12/15/2020, $3.00 ,Discretionary,Misc.
+1,12/16/2020, $2.00 ,Variable,Grocery
+1,12/16/2020, $2.00 ,Variable,Grocery
+1,12/16/2020, $2.00 ,Variable,Grocery
+1,12/16/2020, $2.00 ,Variable,Grocery
+1,12/16/2020, $9.99 ,Discretionary,Misc.
+1,12/20/2020, $32.65 ,Discretionary,Fast Food
+1,12/20/2020, $11.00 ,Discretionary,Misc.
+1,12/20/2020, $20.00 ,Discretionary,Misc.
+1,12/20/2020, $27.98 ,Discretionary,Fast Food
+1,12/20/2020, $11.85 ,Variable,Utilities
+1,12/21/2020, $940.00 ,Fixed,Rent
+1,12/21/2020, $38.67 ,Variable,Car
+1,12/23/2020, $46.99 ,Discretionary,Gym
+1,12/31/2020, $1.79 ,Discretionary,Fast Food
+2,12/1/2020, $340.00 ,Transfer,Venmo
+2,12/2/2020, $490.00 ,Discretionary,Misc.
+2,12/2/2020, $8.56 ,Discretionary,Fast Food
+2,12/2/2020, $0.17 ,Discretionary,Misc.
+2,12/3/2020, $1.41 ,Discretionary,Misc.
+2,12/3/2020, $0.03 ,Discretionary,Misc.
+2,12/3/2020, $3.74 ,Discretionary,Fast Food
+2,12/3/2020, $0.07 ,Discretionary,Misc.
+2,12/7/2020, $(500.00),Transfer,Transfer
+2,12/9/2020, $280.00 ,Discretionary,Misc.
+2,12/9/2020, $2.97 ,Discretionary,Fast Food
+2,12/12/2020, $24.93 ,Variable,Groceries
+2,12/12/2020, $15.17 ,Discretionary,Fast Food
+2,12/14/2020, $24.00 ,Discretionary,Misc.
+2,12/14/2020, $29.94 ,Discretionary,Misc.
+2,12/15/2020, $14.95 ,Discretionary,Fast Food
+2,12/16/2020, $21.81 ,Discretionary,Misc.
+2,12/17/2020, $3.00 ,Discretionary,Misc.
+2,12/20/2020, $20.00 ,Transfer,Venmo
+2,12/20/2020, $17.59 ,Discretionary,Misc.
+2,12/22/2020, $(225.00),Transfer,Transfer
+2,12/23/2020, $18.23 ,Discretionary,Fast Food
+2,12/24/2020, $(47.45),Transfer,Venmo
+2,12/24/2020, $41.00 ,Transfer,Venmo
+2,12/24/2020, $207.30 ,Discretionary,Fast Food
+2,12/28/2020, $7.00 ,Fixed,Utilities
+2,12/28/2020, $128.57 ,Discretionary,Fast Food
+2,12/30/2020, $(500.00),Transfer,Transfer
