@@ -7,7 +7,7 @@ from django.http import HttpResponse
 def index(request):
     return render(
         request,
-        'Wage_Map/Wage_Map.html',
+        'Wage_Map/finance_template.html',
         {
             'name': 'Merari',
             'date': datetime.now()
