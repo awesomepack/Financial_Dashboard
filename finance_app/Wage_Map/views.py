@@ -7,7 +7,7 @@ from django.http import HttpResponse
 def Home(request):
     return render(
         request,
-        'Wage_Map/Finance_Homee.html',
+        'Wage_Map/Finance_Home.html',
         {
             'name': 'Merari',
             'date': datetime.now()
