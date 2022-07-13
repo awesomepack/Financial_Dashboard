@@ -1,7 +1,7 @@
 
-import {statesData} from './us-states'
+//import {statesData} from './us-states'
 
-console.log(statesData)
+//console.log(statesData)
 
 var map = L.map('wage_map').setView([37.80, -96], 4);
 
