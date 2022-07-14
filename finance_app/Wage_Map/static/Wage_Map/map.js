@@ -58,11 +58,15 @@ function hihglightFeature(e) {
     if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
         layer.bringToFront();
     }
+
+    info.update(layer.feature.properties);
+
 }
 
 // Defining activity on MouseOut
 function resetHighLight(e) {
     geojson.resetStyle(e.target)
+    info.update();
 }
 
 // Click listener to zoom on target state
@@ -79,7 +83,26 @@ function onEachFeature(feature, layer) {
     });
 }
 
+// adding the listeners to the map object
 geojson = L.geoJson(statesData, {
     style: style,
     onEachFeature: onEachFeature
 }).addTo(map)
+
+// Show state data on hover
+var info = L.control();
+
+info.onAdd = function (map) {
+    this._div = L.DomUtil.create('div' , 'info'); //Creating a div eith a class "info"
+    this.update();
+    return this._div;
+};
+
+//method used to update control based on feature and properties passed
+info.update = function (props) {
+    this._div.innerHTML = '<h4> US Population Density<h4>' + (props ?
+        '<b>' + props.name + '</b><br />' + props.density + 'people / mi<sup>2</sup>'
+        : 'Hover over a state' ); 
+} 
+
+info.addTo(map);
