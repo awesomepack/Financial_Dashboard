@@ -8,8 +8,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Load the geoJson data from us-state.js
-//var geojsonLayer = L.geoJSON(statesData);
-//geojsonLayer.addTo(map);
+var geojsonLayer = L.geoJSON(statesData);
+geojsonLayer.addTo(map);
 
 //display the geojson object in the console to confirm that it was loaded
 console.log(statesData)
@@ -26,15 +26,35 @@ function getColor(d) {
                       '#FFEDA0';
 }
 
+// Style the map (including the color based off density)
 function style(feature) {
     return {
-        fillcolor: getColor(feature.properties.density),
-    {    weight: 2,
-        opactiy: 1,
+        fillColor: getColor(feature.properties.density),
+        weight: 2,
+        opacity: 1,
         color: 'white',
         dashArray: '3',
-        fillOpacity: .7
-        };
-    }
+        fillOpacity: 0.7
+    
+    };
+}
 
-L.geoJSON(states, {style: style}).addTo(map)
+L.geoJSON(statesData, {style: style}).addTo(map);
+
+// Making the state react when a user hovers over it
+
+// function defining layer activiyt on mouseOn
+function hihglightFeature(e) {
+    var layer = e.target;
+
+    layer.setStyle({
+        weight:5,
+        color: '#666',
+        dashArray: '',
+        fillOpacity: .7
+    });
+
+    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+        layer.bringToFront();
+    }
+}
