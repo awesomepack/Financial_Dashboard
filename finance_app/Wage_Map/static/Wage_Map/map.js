@@ -8,7 +8,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Load the geoJson data from us-state.js
-var geojsonLayer = L.geoJSON(statesData);
+var geojsonLayer = L.geoJson(statesData);
 geojsonLayer.addTo(map);
 
 //display the geojson object in the console to confirm that it was loaded
@@ -58,3 +58,27 @@ function hihglightFeature(e) {
         layer.bringToFront();
     }
 }
+
+// Defining activity on MouseOut
+function resetHighLight(e) {
+    geojsonLayer.resetStyle(e.target)
+}
+
+// Click listener to zoom on target state
+function zoomToFeature(e) {
+    map.fitBounds(e.target.getBounds());
+}
+
+// Add listeners to state layers
+function onEachFeature(feature, layer) {
+    layer.on({
+        mouseover: hihglightFeature,
+        mouseout: resetHighLight,
+        click: zoomToFeature
+    });
+}
+
+geojson = L.geoJson(statesData, {
+    style: style,
+    onEachFeature: onEachFeature
+}).addTo(map)
