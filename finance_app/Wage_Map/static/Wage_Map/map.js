@@ -42,6 +42,7 @@ function style(feature) {
 L.geoJSON(statesData, {style: style}).addTo(map);
 
 // Making the state react when a user hovers over it
+var geojson;
 
 // function defining layer activiyt on mouseOn
 function hihglightFeature(e) {
@@ -61,7 +62,7 @@ function hihglightFeature(e) {
 
 // Defining activity on MouseOut
 function resetHighLight(e) {
-    geojsonLayer.resetStyle(e.target)
+    geojson.resetStyle(e.target)
 }
 
 // Click listener to zoom on target state
