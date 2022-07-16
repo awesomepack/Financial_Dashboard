@@ -1,3 +1,7 @@
 .env
 finAppVenv/
 db.sqlite3
+finance_app/__pycache__/
+finance_app/finance_app/__pycache__/
+finance_app/Wage_Map/__pycache__/
+finance_app/Wage_Map/migrations/__pycache__
