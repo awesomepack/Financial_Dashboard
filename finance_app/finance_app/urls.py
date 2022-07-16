@@ -16,10 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
+from . import views
 
 urlpatterns = [
     path('', include('Wage_Map.urls')),
-    path('map/', include('Wage_Map.urls'), name='map'),
+    #path('map/', include('Wage_Map.urls'), name='map'),
+    path('dashboard/', views.dashboard, name='dashboard'),
     path('admin/', admin.site.urls),
 
 ]
