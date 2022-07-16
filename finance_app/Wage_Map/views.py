@@ -4,10 +4,10 @@ from django.http import HttpResponse
 
 # Create your views here.
 
-def Home(request):
+def Salary_Map(request):
     return render(
         request,
-        'Wage_Map/Finance_Home.html',
+        'Wage_Map/Finance_Salary_Map.html',
         {
             'name': 'Merari',
             'date': datetime.now()
