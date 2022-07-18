@@ -78,11 +78,17 @@ WSGI_APPLICATION = 'finance_app.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'mssql',
+        'NAME': config("DB_NAME"),
+        'HOST': config("DB_SERVER"),
+        'PORT': '1433',
+        'USER': config("DB_USER"),
+        'PASSWORD': config("DB_PASSWORD"),
+        'OPTIONS': {
+            'driver': 'ODBC Driver 17 for SQL Server',
+        },
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
